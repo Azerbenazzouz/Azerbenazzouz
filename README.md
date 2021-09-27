@@ -24,6 +24,6 @@
 [instagram]: https://www.instagram.com/programerlife_tn/
 [linkedin]: https://www.linkedin.com/in/azer-ben-azzouz-123580148/
 <br /> <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=52118041azer&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azerbenazzouz&show_icons=true&theme=dark)
 
 
