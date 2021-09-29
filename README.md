@@ -5,10 +5,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧 -->
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Azer Spotify Playing" width="350" />](https://open.spotify.com/user/6z0sqa52y28tkgwdz7bi5oo1a)
-
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Azer Spotify Playing" width="350" />](https://open.spotify.com/user/6z0sqa52y28tkgwdz7bi5oo1a)
+ -->
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
