@@ -21,7 +21,7 @@
 [course]: https://www.youtube.com/watch?v=6jZDNU5m1xw&list=PLIJTfyXpKFuuljTkZqd4bM1uqPOKRuoUB
 [twitter]: https://twitter.com/azerbenazzouz
 [youtube]: https://www.youtube.com/channel/UCqkzAzzHtFGDyNRdPJZntOw
-[instagram]: https://www.instagram.com/programerlife_tn/
+[instagram]: https://www.instagram.com/azerbenazzouz/
 [linkedin]: https://www.linkedin.com/in/azer-ben-azzouz-123580148/
 <br /> <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azerbenazzouz&show_icons=true&theme=dark)
