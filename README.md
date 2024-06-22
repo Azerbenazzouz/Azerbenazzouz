@@ -21,8 +21,8 @@
 [linkedin]: https://www.linkedin.com/in/azer-ben-azzouz-123580148/
 <br /> <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azerbenazzouz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azerbenazzouz&theme=algolia&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=azerbenazzouz&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
-<br />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azerbenazzouz&theme=algolia&layout=compact)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=azerbenazzouz&theme=react)
 
 
