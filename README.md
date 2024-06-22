@@ -26,5 +26,6 @@
 <br /> <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azerbenazzouz&show_icons=true&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=azerbenazzouz&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+![](https://github-readme-activity-graph.vercel.app/graph?username=azerbenazzouz&theme=react)
 
 
