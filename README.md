@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-<!-- ### Spotify Playing 🎧 -->
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Azer Spotify Playing" width="350" />](https://open.spotify.com/user/6z0sqa52y28tkgwdz7bi5oo1a)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -26,7 +22,7 @@
 <br /> <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azerbenazzouz&show_icons=true&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=azerbenazzouz&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azerbenazzouz&theme=algolia&layout=compact)
+<br />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azerbenazzouz&theme=algolia&layout=compact)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=azerbenazzouz&theme=react)
 
 
