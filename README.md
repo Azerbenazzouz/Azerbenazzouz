@@ -8,6 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azerbenazzouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## 🏆 My github rank in Tunisia?
+:zap: [![committers.top badge](https://user-badge.committers.top/tunisia/Azerbenazzouz.svg)](https://user-badge.committers.top/tunisia/Azerbenazzouz)
+
 ###
 
 <img align="left" height="180" src="https://media.licdn.com/dms/image/D4D03AQE3QiUrGlAi7g/profile-displayphoto-shrink_400_400/0/1719959673849?e=1725494400&v=beta&t=FQ-uadwL8colDkpLGytGaVlcASrMcKVWlwwSU9WFuI4"  />
@@ -111,8 +114,6 @@
 </div>
 
 ###
-## 🏆 My github rank in Tunisia?
-:zap: [![committers.top badge](https://user-badge.committers.top/tunisia/Azerbenazzouz.svg)](https://user-badge.committers.top/tunisia/Azerbenazzouz)
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Azerbenazzouz/Azerbenazzouz/output/snake.svg" alt="Snake animation" />
