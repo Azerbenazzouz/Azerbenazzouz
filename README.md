@@ -112,7 +112,6 @@
 
 ###
 ## 🏆 My github rank in Tunisia?
-:zap: [![committers.top badge](https://user-badge.committers.top/tunisia_private/Azerbenazzouz.svg)](https://user-badge.committers.top/tunisia_private/Azerbenazzouz)
 :zap: [![committers.top badge](https://user-badge.committers.top/tunisia/Azerbenazzouz.svg)](https://user-badge.committers.top/tunisia/Azerbenazzouz)
 <br clear="both">
 
